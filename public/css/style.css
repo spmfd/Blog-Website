@@ -1,0 +1,38 @@
+.header-container{
+    background-color: rgb(196, 88, 88);
+    height: 25vh;
+
+}
+
+.techblog {
+    background-color: antiquewhite;
+    border: 2px  brown;
+    border-radius: 5px;
+    margin-left: 10%;
+    display: inline-block;
+    font-size: 2.5rem;
+    padding: 1%;
+    box-shadow: 10px 10px;
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    margin-top: 2%;
+}
+.nav-item a {
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 1.5rem;
+}
+
+.card {
+    width: 80%;
+    margin: 5% 10%;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(196, 88, 88);
+    width: 100%;
+}
